@@ -1,0 +1,28 @@
+{
+  "name": "vyges-ip/tlul-apb-adapter",
+  "x-version": "1.0.0",
+  "version": "1.0.0",
+  "description": "**Vyges Infrastructure IP** | `vyges/tlul-apb-adapter@0.1.0`",
+  "license": "Apache-2.0",
+  "template": "vyges-ip-template@1.0.0",
+  "target": [
+    "asic",
+    "fpga"
+  ],
+  "design_type": [
+    "digital"
+  ],
+  "maturity": "draft",
+  "upstream": {
+    "repo": "https://github.com/vyges/tlul-apb-adapter",
+    "commit": "f955b47dff149fd8585de9bdb387838deae8cc49"
+  },
+  "interfaces": [],
+  "parameters": [],
+  "constraints": {
+    "clock": [],
+    "power": [],
+    "area": {}
+  },
+  "_note": "This is an auto-generated skeleton. Please fill in interfaces, parameters, and constraints based on RTL analysis."
+}
