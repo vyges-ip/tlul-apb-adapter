@@ -15,7 +15,7 @@
   "maturity": "draft",
   "upstream": {
     "repo": "https://github.com/vyges/tlul-apb-adapter",
-    "commit": "f955b47dff149fd8585de9bdb387838deae8cc49"
+    "commit": "88d0bca6ccf7a86a8688b95cf85b19e3a4474c80"
   },
   "interfaces": [],
   "parameters": [],
