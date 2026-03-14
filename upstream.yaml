@@ -1,11 +1,9 @@
 schema_version: "vyges-upstream-v1"
-
 upstream:
   type: "standalone"
   repo: https://github.com/vyges/tlul-apb-adapter
   branch: main
-  commit: 88d0bca6ccf7a86a8688b95cf85b19e3a4474c80
-
+  commit: 062475c8b0cb390dd094920a66d707e013a1c5f8
 import:
   rtl:
     - path: "rtl"
@@ -23,9 +21,7 @@ import:
     - path: "LICENSE"
   readme:
     - path: "README.md"
-
 exclude: []
-
 license:
   spdx: Apache-2.0
   file: LICENSE
