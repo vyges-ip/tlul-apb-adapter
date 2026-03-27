@@ -3,7 +3,7 @@ upstream:
   type: "standalone"
   repo: https://github.com/vyges/tlul-apb-adapter
   branch: main
-  commit: b1b748c799f264bec3665db296fbd2843151835b
+  commit: 3c430fcfe0328b88462ac1879b8a6cb8cb9cc7d2
 import:
   rtl:
     - path: "rtl"
