@@ -12,6 +12,7 @@ import:
     - path: "LICENSE"
   metadata:
     - path: "vyges-metadata.json"
+      map_to: "vyges-metadata.json"
 exclude: []
 license:
   spdx: Apache-2.0
